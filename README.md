@@ -1,4 +1,3 @@
-# For now there is not much :)
+# Welcome to my pages
 
-## Small Project
-- [iOS Calculator](https://renatoseb.github.io/calculator/)
+All this work is done with passion :fire:
